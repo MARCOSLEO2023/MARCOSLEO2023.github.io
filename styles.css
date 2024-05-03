@@ -1,0 +1,58 @@
+.h1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px;
+    font-size: 100px;}
+    div{
+      box-shadow: inset;
+      float: center ;
+      background-color: rgb(76, 208, 27);
+      color: rgb(251, 255, 13);
+      padding: 10px;
+      margin: 25px;
+      width: 80%;
+      border:1px;
+      border-radius:  20px;
+      text-align:center;}
+  
+  
+    ol{  color: blue;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align:left;
+      padding: 25px;
+      font-size: 40
+    px;}
+  pre{color: blue;font-size: 20px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-style: italic; text-align: center;}
+  
+  
+  p{color: blueviolet;font-size: 20px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-style: italic; text-align: center;}
+  body {
+    color: black;
+  }
+  
+  span{
+    color: blue;
+    margin: 6120px;padding: 5px
+  }
+  
+  ul{
+    color: blue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  ol{font-family: Arial, Helvetica, sans-serif;}
+  
+  a :link {
+    color: red;
+  } 
+  a :visited {
+    color: green;
+  }
+  a :hover {
+    color: blue;
+  }
+  a :active {
+    color: yellow;
+  }
+  
